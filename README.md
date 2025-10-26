@@ -8,21 +8,29 @@
               font-family:'Schoolbell';
                 }
             #h1div{
-                font:cursive
+                font-family:cursive;
                 }
-            h1{
-                color:rgb(189, 19, 19)
+            #p1{
+                color:rgb(189, 19, 19);
+                background-color:rgb(255, 206, 213);
+                border:rgb(200,173,127) double 5px;
+                padding:10px;
+                margin:5;
+                }
         </style>
     </head>
     <body>
         
-        <h1><span class="schoolbell">Shadow's</span><div id="h1div">Birthday<span class="schoolbell">Weekend!</span></div></h1>
-        <h2>To something!</h2>
+        <div id="p1"><h1><span class="schoolbell">Shadow's</span><div id="h1div">Birthday<span class="schoolbell"> Weekend!</span></div></h1>
+        <h4>Please join us for Shadow’s Party!</h4>
+        
+        <img width="623" height="873" alt="image" src="https://github.com/user-attachments/assets/ee3ab226-9a83-4a33-b04a-79e7d468f61f" />
+
         
         <p>The details:</p>
         <ul>
             <li></li>
         </ul>
-        
+        </div>
     </body>
 </html>
